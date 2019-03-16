@@ -10,6 +10,8 @@ currently works for me on osx
 
 produces `weddingbox.png` by default.
 
+[[./weddingbox.png]]
+
 * video
 `./weddingbox.sh`
 
