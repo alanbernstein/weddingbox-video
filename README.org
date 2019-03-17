@@ -6,13 +6,13 @@ currently works for me on osx
 - ffmpeg
 
 * static image
-`povray weddingbox.pov`
+~povray weddingbox.pov~
 
-produces `weddingbox.png` by default.
+produces ~weddingbox.png~ by default.
 
 [[./weddingbox.png]]
 
 * video
-`./weddingbox.sh`
+~./weddingbox.sh~
 
-produces `weddingbox.mp4`.
+produces ~weddingbox.mp4~.
